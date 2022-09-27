@@ -1,0 +1,20 @@
+"Phrases"
+{
+    "motd_error"
+    {
+        "en"        "Type cl_disablehtmlmotd 0 in your console."
+        "ru"        "Введите cl_disablehtmlmotd 0 в вашей консоли."
+    }
+
+    "player_left"
+    {
+        "en"        "Player left the server."
+        "ru"        "Игрок вышел с сервера."
+    }
+
+    "menu_select_a_player"
+    {
+        "en"        "Select a player"
+        "ru"        "Выберите игрока"
+    }
+}
