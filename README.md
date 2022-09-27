@@ -4,8 +4,8 @@
 * Allows you to open a player's profile on Steam
 
 #### Commands:
-* <b>!profile</b> - player selection menu
-* <b>!myprofile</b> - opens your profile
+* `!profile` - player selection menu
+* `!myprofile` - opens your profile
 
 #### Thanks to:
-* Grey83
+* [Grey83](https://github.com/Grey83/)
